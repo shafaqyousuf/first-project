@@ -1,0 +1,91 @@
+.btnhover:hover{
+background-color: white;
+color: red;
+border-color: red;
+}
+.navhover li:hover{
+    color: red;
+}
+.navposition{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    right: 0%;
+}
+.firstpage{
+    background: url(https://c8.alamy.com/comp/D6WP25/blank-projector-screen-at-the-office-D6WP25.jpg);
+    background-position: center ;
+    margin-top: 70px;
+    background-size: 1300px;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+.firstinput{
+    width: 400px;
+    padding: 10px;
+}
+.imggroup img{
+    margin: 0 40px;
+}
+.bgcolor{
+    background-color: #edf9fb;
+    height: 85vh;
+    width: 100vw;
+}
+.box1:hover{
+    background-color: white;
+}
+.page6th{
+    background-color: rgb(254, 25, 25);
+    width: 100vw;
+    height: 60vh;
+}
+.leftborder{
+    border-right: 2px solid grey;
+}
+.borderleft{
+    border-left: 5px solid green;
+    margin: 8px;
+}
+.bgcolor2{
+    background-color: #edf9fb;
+    height: 130vh;
+    width: 100vw;
+}
+.bgdanger{
+    height: 60vh;
+    width: 100vw;
+    background-color: rgb(251, 55, 55);
+}
+.bgdanger2{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(251, 55, 55);
+}
+.bgdanger3 input, textarea, select{
+    width: 300px;
+    height: 50px;
+    margin: 3px 8px;
+    padding: 4px;
+    border: 2px solid white;
+    background-color: rgb(251, 55, 55);
+    border-radius: 5px;
+}
+.bgdanger3 input::placeholder, textarea::placeholder{
+    color: white;
+}
+.bgdanger3 textarea{
+    width: 620px;
+    height: 150px;
+}
+.bgdanger4{
+ width: 300px;
+ margin: 0 40px;
+ height: 440px;
+}
+.bgdanger5{
+    width: 300px;
+    margin: 0 40px;
+    height: 460px;
+   }
